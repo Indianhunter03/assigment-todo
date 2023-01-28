@@ -1,0 +1,161 @@
+ul{
+    list-style: none;
+}
+.Navbar{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+    margin: auto;
+    padding: 15px;
+    color: white;
+    size: 10px;
+    font-size: medium;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-style: solid;
+    background-color: #1f1b1e;
+    border-color: #A35709;
+    border-width: 2px;
+    margin-bottom: 20px;
+}
+#s{
+  color: wheat;
+}
+#container{
+margin: auto;
+width: 450px;
+border-radius: 10px;
+padding: auto;
+margin-bottom: 15px;
+background-size: cover;
+border-color: #A35709;
+box-shadow: 10px;
+}
+.header{
+    display: flex;
+    flex-direction:row;
+    width: 80%;
+}
+.inputdatas{
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    padding: auto;
+    width: 300px;
+}
+#inputdata{
+    width: 100%;
+    height: 30px;
+    background-color: #1f1b1e;
+    border:#A35709 solid;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    color: #f0e3ca;
+}
+#bt1{
+    position: relative;
+    background-color: #1f1b1e;
+    border:#A35709 solid;
+    border-radius: 5px;
+    margin-left:10px;
+    height:65px;
+    width: 65px ;
+    font-size: xx-large;
+    padding: auto;
+    color: #A35709;
+}
+#List{ 
+    background-color: #1f1b1e;
+    border:#A35709 solid;
+    border-radius: 5px;
+    font-style:inherit;
+    width: 950px;
+    height: 45vh;
+    margin: auto;
+    
+
+}
+#task{
+    display: flex;
+    flex-wrap: wrap;
+}
+#content{
+    width: 290px;
+    background-color: #1f1b1e;
+    border:#A35709 solid;
+    border-radius: 5px;
+    justify-content:flex-start;
+    margin:10px 12px ;
+   
+}
+.headerx{
+    display: flex;
+    flex-direction:row;
+    width: 100%;
+    margin: auto;
+    flex-wrap: wrap;
+}
+
+
+.datas{
+    display: flex;
+    width: 70%;
+    flex-direction: column;
+    margin:auto;
+    padding: 5px 0px;
+    justify-content: space-evenly;
+    align-items:baseline;
+  
+}
+#content1{
+    font-size: medium;
+    margin: 0px;
+    padding: auto;
+    color: #f0e3ca;
+}
+#content2{
+     
+    font-size:xx-small;
+    margin: 0px;
+    padding: auto;
+    color: #f0e3ca;
+}
+#bt2{
+    position:inherit;
+    width: 30px;
+    height: 30px;
+    padding:auto;
+    background-color: #1f1b1e;
+    border:#A35709 solid;
+    border-radius: 5px;
+    margin-left: auto;
+}
+#bt3{
+    position:inherit;
+    width: 30px;
+    height: 30px;
+    padding:auto;
+    background-color: #1f1b1e;
+    border:#A35709 solid;
+    color: rgb(255, 129, 2);
+    border-radius: 5px;
+    margin:10px 5px;
+}
+#infoimg{
+    padding: auto;
+    margin: auto;
+}
+body{
+    font-family:'Ubuntu', sans-serif;
+   
+}
+.NOTODO{
+    color: #f0e3ca;
+    font-size: xx-large;
+    padding: 40px 100px;
+    margin: auto;
+}
+
+
