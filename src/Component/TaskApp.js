@@ -1,7 +1,7 @@
 import { useState } from "react";
 import './task.css';
 import React,{useEffect} from 'react';
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+
 
 function TaskApp() {
  
